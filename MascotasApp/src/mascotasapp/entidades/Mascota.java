@@ -19,7 +19,7 @@ public class Mascota {
     private boolean cola;
     private String raza;
     private int energia;
-       
+    private String angel;   
         
     
     public Mascota(){
